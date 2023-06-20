@@ -1,4 +1,4 @@
-### Hi there 👋
+### 2de42cac4
 
 <!--
 **2de42cac4/2de42cac4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a blockchain engineer with about 3 years of experience working with Smart Contracts and Off-Chain services built on top of them using Typescript.
+This is my alternate github, all commits will be absorbed into the main account in future.
