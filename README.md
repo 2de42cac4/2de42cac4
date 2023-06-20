@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I'm a blockchain engineer with about 3 years of experience working with Smart Contracts and Off-Chain services built on top of them using Typescript.
 
 This is my alternate github, all commits will be absorbed into the main account in future.
+
+Fun fact: `2de42cac4 = keccak256("{originial-github-id}-epf4")[:10]`
